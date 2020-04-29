@@ -7,7 +7,7 @@ by Noel Rivera\
 
 ## A Brief Introduction
 
-This guide to markdown is intended to serve as an example of what it is explaining.
+This guide to markdown is intended to serve as an example of the topic it explains.
 Examine the markdown file while using the markdown previewer in your text editor of choice to see how the text looks when rendered.
 
 ### **What version of markdown are we using?**
