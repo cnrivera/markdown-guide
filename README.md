@@ -6,7 +6,7 @@ You will need:
 
 * The simple-markdown-style-guide.md file.
 * A text editor of your choice, such as Atom or Visual Studio Code.
-    * If using the Chrome browser, you can install the Markdown Viewer Chrome extension to view the rendered text while viewing the markdown file in any basic text editor.
+    * If using the Chrome browser, you can install the Markdown Viewer Chrome extension to view the rendered text in your browser while viewing the markdown file in any basic text editor.
 * Time to review and practice.
 
 This guide is based on the **CommonMark** style.
